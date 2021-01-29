@@ -1,0 +1,174 @@
+[
+{
+"answerType" : "select",
+	"questionId" : "1",
+	"questionTitle" : "下列关于C语言的描述正确的是？",
+	"questionItems" :"C语言是面向对象语言;C语言是面向过程语言;C语言代码可以直接执行;C语言是脚本语言"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "2",
+	"questionTitle" : "如下哪个是声明一个整形变量？",
+	"questionItems" :"int *a;float a;char a;int a"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "3",
+	"questionTitle" : "如下哪个可以成功给a变量赋值？",
+	"questionItems" :"a==666;a<=333;a=3;a!=3"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "4",
+	"questionTitle" : "如下哪个可以创建一个长度为6的整形数组？",
+	"questionItems" :"int a[7];int *a[6];int a[6];int a"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "5",
+	"questionTitle" : "如下哪个可以将变量a的值改变？",
+	"questionItems" :"a++;a==1;a | a;!a"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "6",
+	"questionTitle" : "如果a当前的值为6，则printf(\"%d\", a++)输出的内容是什么？",
+	"questionItems" :"5;6;7;8"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "7",
+	"questionTitle" : "const int a=3是什么意思？",
+	"questionItems" :"定义一个普通的整形变量;定义一个初值为3的普通整形变量;定义一个const类型的变量;定义一个值为3的整形常量"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "8",
+	"questionTitle" : "下面哪个不是比较运算符？",
+	"questionItems" :">;<=;!=;="
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "9",
+	"questionTitle" : "表达式(1+3*6)%3的值是？",
+	"questionItems" :"0;1;2;3"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "10",
+	"questionTitle" : "下面哪个可以成功访问数组a的第三个元素？",
+	"questionItems" :"a[3];a[4];a[2];以上都不对"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "11",
+	"questionTitle" : "关于函数在C语言中的作用，描述不对的是？",
+	"questionItems" :"封装代码，提高编程效率;使代码更加美观;减少重复代码;没有存在的必要"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "12",
+	"questionTitle" : "下面哪个不是输出函数？",
+	"questionItems" :"printf();puts();putchar();gets()"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "13",
+	"questionTitle" : "关于字符串的描述错误的是？",
+	"questionItems" :"字符串能存储在字符数组中;字符串的介绍标识是0;字符串的内容不能超出所存储的数组的大小;字符串可以存储在float数组中"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "14",
+	"questionTitle" : "常用的位运算符号有？",
+	"questionItems" :"+ - * /;& | ! ^;> < >= !=;&& || ! "
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "15",
+	"questionTitle" : "下面哪个可以输出字符a与字符b的ASCII码值的差值？",
+	"questionItems" :"a-b;a/b;a*b;printf(\"%d\", a-b)"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "16",
+	"questionTitle" : "下面哪个预处理命令可以定义常量？",
+	"questionItems" :"#include;#define;#if;#end"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "17",
+	"questionTitle" : "定义结构体需要使用下面哪个关键字？",
+	"questionItems" :"struct;new;define;sizeof"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "18",
+	"questionTitle" : "下面哪个不可以实现循环结构？",
+	"questionItems" :"while;for;do while;where"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "19",
+	"questionTitle" : "下面哪个可以获取变量a的内存地址？",
+	"questionItems" :"show a;&a;*a;puts(a)"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "20",
+	"questionTitle" : "fopen函数的作用是什么？",
+	"questionItems" :"输出字符串;打开文件;申请内存;啥也不是"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "21",
+	"questionTitle" : "printf(\"%d\", 3 < 4 ? 100 : 99)会输出99？",
+	"questionItems" :"对;错"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "22",
+	"questionTitle" : "putchar函数可以输出字符串？",
+	"questionItems" :"对;错"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "23",
+	"questionTitle" : "FILE *fp意思是定义一个FILE类型的指针变量？",
+	"questionItems" :"对;错"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "24",
+	"questionTitle" : "C语言代码需要编译成可执行文件后才能执行？",
+	"questionItems" :"对;错"
+	
+}, {
+	"answerType" : "select",
+	"questionId" : "25",
+	"questionTitle" : "可以通过字符串在数组中的结束标识0来求出字符串的长度？",
+	"questionItems" :"对;错"
+	
+}, {
+	"answerType" : "edit",
+	"questionId" : "26",
+	"questionTitle" : "设计一个程序，输出hello C"
+	
+}, {
+	"answerType" : "edit",
+	"questionId" : "27",
+	"questionTitle" : "设计一个程序，输入一个字符串，然后换行后输出该字符串"
+}, {
+	"answerType" : "edit",
+	"questionId" : "28",
+	"questionTitle" : "设计一个程序，打印一个由*组成的长度为6的正方形"
+}, {
+	"answerType" : "edit",
+	"questionId" : "29",
+	"questionTitle" : "设计一个程序，输出1到1000内的所有偶数"
+}, {
+	"answerType" : "edit",
+	"questionId" : "30",
+	"questionTitle" : "设计一个函数，该函数可以返回参数中给定的字符数组中字符串的长度"
+}
+]
